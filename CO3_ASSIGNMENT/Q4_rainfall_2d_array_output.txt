@@ -1,0 +1,10 @@
+INPUT:
+(No keyboard input; sample test data is defined in the program.)
+
+OUTPUT:
+State average rainfall: 60.83 mm
+District 1 annual total: 200.00 mm
+District 2 annual total: 110.00 mm
+District 3 annual total: 420.00 mm
+Wettest record: District 3, Month 2 = 120.00 mm
+Below 60% of state average: District 2 

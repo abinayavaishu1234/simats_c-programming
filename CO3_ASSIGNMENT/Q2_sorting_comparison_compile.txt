@@ -1,0 +1,2 @@
+Command: gcc -std=c11 -Wall -Wextra Q2_sorting_comparison.c -o Q2_sorting_comparison
+Compilation successful.

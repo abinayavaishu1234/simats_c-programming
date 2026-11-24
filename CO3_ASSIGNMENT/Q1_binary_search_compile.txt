@@ -1,0 +1,2 @@
+Command: gcc -std=c11 -Wall -Wextra Q1_binary_search.c -o Q1_binary_search
+Compilation successful.

@@ -1,0 +1,15 @@
+INPUT:
+(No keyboard input; sample test data is defined in the program.)
+
+OUTPUT:
+Sorted resident names:
+Arun
+Arun
+Divya
+Kavin
+Meera
+Zoya
+Search Arun: index 0
+Search Rahul: index -1
+Duplicate names:
+Arun

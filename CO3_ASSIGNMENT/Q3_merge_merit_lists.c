@@ -1,0 +1,24 @@
+#include <stdio.h>
+int merge(const int a[], int na, const int b[], int nb, int out[]) {
+    int i=0,j=0,k=0;
+    while(i<na && j<nb) {
+        if(a[i]>=b[j]) out[k++]=a[i++];
+        else out[k++]=b[j++];
+    }
+    while(i<na) out[k++]=a[i++];
+    while(j<nb) out[k++]=b[j++];
+    return k;
+}
+int main(void) {
+    int campusA[]={98,91,85,72}, campusB[]={95,91,80}, merged[7];
+    int n=merge(campusA,4,campusB,3,merged);
+    printf("Merged merit list: ");
+    for(int i=0;i<n;i++) printf("%d ",merged[i]);
+    printf("\n");
+    int empty[1], onlyB[]={88,77}, result[2];
+    n=merge(empty,0,onlyB,2,result);
+    printf("One empty list: ");
+    for(int i=0;i<n;i++) printf("%d ",result[i]);
+    printf("\n");
+    return 0;
+}
