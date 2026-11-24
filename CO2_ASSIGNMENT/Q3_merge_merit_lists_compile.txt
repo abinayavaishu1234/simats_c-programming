@@ -1,0 +1,2 @@
+Command: gcc -std=c11 -Wall -Wextra Q3_merge_merit_lists.c -o Q3_merge_merit_lists
+Compilation successful.

@@ -1,0 +1,2 @@
+Command: gcc -std=c11 -Wall -Wextra Q5_string_processing.c -o Q5_string_processing
+Compilation successful.

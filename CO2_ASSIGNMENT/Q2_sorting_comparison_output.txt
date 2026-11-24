@@ -1,0 +1,16 @@
+INPUT:
+(No keyboard input; sample test data is defined in the program.)
+
+OUTPUT:
+Sorted | Bubble: comparisons=7 swaps/moves=0
+Sorted | Selection: comparisons=28 swaps/moves=0
+Sorted | Insertion: comparisons=7 shifts/moves=7
+Nearly sorted | Bubble: comparisons=13 swaps/moves=3
+Nearly sorted | Selection: comparisons=28 swaps/moves=3
+Nearly sorted | Insertion: comparisons=8 shifts/moves=8
+Reverse sorted | Bubble: comparisons=28 swaps/moves=84
+Reverse sorted | Selection: comparisons=28 swaps/moves=12
+Reverse sorted | Insertion: comparisons=28 shifts/moves=35
+Mixed | Bubble: comparisons=25 swaps/moves=36
+Mixed | Selection: comparisons=28 swaps/moves=18
+Mixed | Insertion: comparisons=18 shifts/moves=19

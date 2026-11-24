@@ -1,0 +1,2 @@
+Command: gcc -std=c11 -Wall -Wextra Q4_rainfall_2d_array.c -o Q4_rainfall_2d_array
+Compilation successful.

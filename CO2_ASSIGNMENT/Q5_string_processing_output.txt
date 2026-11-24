@@ -1,0 +1,8 @@
+INPUT:
+(No keyboard input; sample test data is defined in the program.)
+
+OUTPUT:
+Words: 7
+Madam, I'm Adam: 1
+Hello: 0
+Empty message words: 0

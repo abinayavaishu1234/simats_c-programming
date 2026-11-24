@@ -1,0 +1,16 @@
+INPUT:
+(No keyboard input; sample test data is defined in the program.)
+
+OUTPUT:
+Valid votes: 9
+Invalid votes: 3
+Candidate 1: 3 votes
+Candidate 2: 3 votes
+Candidate 3: 1 votes
+Candidate 4: 2 votes
+Ranking:
+1. Candidate 1 - 3 votes
+2. Candidate 2 - 3 votes
+3. Candidate 4 - 2 votes
+4. Candidate 3 - 1 votes
+Result: Tie between Candidate 1 Candidate 2

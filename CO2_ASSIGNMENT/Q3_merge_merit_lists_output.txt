@@ -1,0 +1,6 @@
+INPUT:
+(No keyboard input; sample test data is defined in the program.)
+
+OUTPUT:
+Merged merit list: 98 95 91 91 85 80 72 
+One empty list: 88 77 

@@ -1,0 +1,2 @@
+Command: gcc -std=c11 -Wall -Wextra Q7_election_count.c -o Q7_election_count
+Compilation successful.

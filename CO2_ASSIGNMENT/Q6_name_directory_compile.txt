@@ -1,0 +1,2 @@
+Command: gcc -std=c11 -Wall -Wextra Q6_name_directory.c -o Q6_name_directory
+Compilation successful.
